@@ -15,7 +15,7 @@
 <img src="https://img.shields.io/badge/php-ED8B00?style=flat&logo=openjdk&logoColor=white"> <img src="https://img.shields.io/badge/golang-6DB33F?style=flat&logo=springboot&logoColor=white"> <img src="https://img.shields.io/badge/python-red?style=flat&logo=Mybatis&logoColor=red"> <img alt="Kafka" src="https://img.shields.io/badge/laravel-000?style=flat&logo=Apache%20Kafka&logoColor=white"> <img alt="nginx" src="https://img.shields.io/badge/Nginx-00C300?style=flat&logo=nginx&logoColor=white">
 
 ### Frontend
-<img src = "https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white"> <img alt="Vue" src="https://img.shields.io/badge/Vue-35495E?style=flat&logo=vue.js&logoColor=4FC08D">  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=#000000"> 
+<img alt="Vue" src="https://img.shields.io/badge/Vue-35495E?style=flat&logo=vue.js&logoColor=4FC08D">  <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=#000000"> 
 
 ### Database
 <img src="https://img.shields.io/badge/Mysql-%234479A1.svg?&style=plastic&logo=mysql&logoColor=white"/> <img alt="Redis" src="https://img.shields.io/badge/Redis-%23DD0031.svg?&style=flat&logo=redis&logoColor=white"> <img alt="ElasticSearch" src="https://img.shields.io/badge/-ElasticSearch-005571?style=flat&logo=elasticsearch"> <img alt="Mongodb" src="https://img.shields.io/badge/-Mongodb-005571?style=flat&logo=Mongodb">
