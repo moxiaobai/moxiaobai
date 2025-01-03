@@ -26,7 +26,7 @@
 
 
 ### Software & Tools
-<img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=plastic&logo=visual-studio-code&logoColor=white"> <img alt="IntelliJ_IDEA" src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=plastic&logo=intellij-idea&logoColor=white" /> <img alt="Postman" src="https://img.shields.io/badge/Postman-FC8019?logo=Postman&logoColor=white" />
+<img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=plastic&logo=visual-studio-code&logoColor=white"> <img alt="Postman" src="https://img.shields.io/badge/Postman-FC8019?logo=Postman&logoColor=white" />
 
 ## Language Skill
 - Chinese: 母语
