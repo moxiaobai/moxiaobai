@@ -1,6 +1,6 @@
 <h1 align="center">Hi , I'm Mo Xiao Bai <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-[![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:xiaogang622124@gmail.com)
+[![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:xiaogang622124@gmail.com)  [![Blog](https://img.shields.io/badge/Blog-0078D4?style=flat-square&logo=github&logoColor=white)](http://momobaba.top)
 
 <!--END_SECTION:waka-->
 
