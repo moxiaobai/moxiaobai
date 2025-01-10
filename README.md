@@ -7,7 +7,7 @@
 ## About me
 <img align="right" alt="GIF" src="assets/code.gif" width="300" height="160" title="passion"/>
 
-- 🔭  I am currently working as a **Web Developer** in Fuzhou, China
+- 🔭  I am currently working as a **Backend Developer** in Fuzhou, China
 - 📧 Feel free to contact me 😄
 
 ## Tech Stack
